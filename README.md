@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Navneet!
+#Hi, I'm Navneet!
 
 I'm a **Senior Software Developer** with a passion for building clean, scalable, and impactful software solutions. My main focus is on Microsoft Dynamics 365 Finance & Operations (D365FO), but I love exploring new tools, languages, and creative side projects.
 
